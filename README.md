@@ -32,11 +32,10 @@ Data Filtering: Filters the list of topics based on the search input.
 
 Styling: Inline CSS is used to style the components with simple hover effects on the search bar and topic cards.
 
-# Demo
-You can view the project live at [GitHub Pages or another platform if hosted].
+
 
 # Video Explanation
-For a step-by-step explanation of the code and design, refer to the [link to video].
+For a step-by-step explanation of the code and design, refer to the https://www.kapwing.com/w/lKM4P5IBH4.
 
 # Contributing
 Feel free to fork the repository, raise issues, and submit pull requests for improvements.

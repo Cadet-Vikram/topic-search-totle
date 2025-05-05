@@ -13,7 +13,7 @@ This project is a simple React component that displays a list of topics and allo
 
 1. Clone the repository:
    
-   git clone [<repo_link>](https://github.com/Cadet-Vikram/topic-search-totle.git)
+   git clone (https://github.com/Cadet-Vikram/topic-search-totle.git)
 
 2. Install dependencies:
 
@@ -46,4 +46,3 @@ This project is open source and available under the MIT License.
 
 
 
-Replace the [`<repo_link>`](https://github.com/Cadet-Vikram/topic-search-totle.git) with your actual GitHub repository link. Also, ensure you upload the video explanation to a platform like YouTube or similar, and then update the link accordingly.
